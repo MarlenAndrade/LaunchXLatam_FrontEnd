@@ -1,2 +1,2 @@
 # FrontEnd
-Practicas FrontEnd
+Practicas FrontEnd de LaunchXLatam
